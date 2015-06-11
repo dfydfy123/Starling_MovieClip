@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package>
+    <movie name="boy" loop="true">
+        <frame>
+            <image x="0" y="0">boy_01</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_02</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_03</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_04</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_05</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_06</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_07</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_08</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_09</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_10</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_11</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_12</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_13</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_14</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_15</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_16</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_17</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_18</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_19</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_20</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_21</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_22</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_23</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">boy_24</image>
+            <script>
+                <![CDATA[
+                    gotoAndPlay(0);
+                ]]>
+            </script>
+        </frame>
+    </movie>
+
+    <movie name="girl" loop="true">
+        <frame>
+            <image x="0" y="0">girl_01</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_02</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_03</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_04</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_05</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_06</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_07</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_08</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_09</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_10</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_11</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_12</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_13</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_14</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_15</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_16</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_17</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_18</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_19</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_20</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_21</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_22</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_23</image>
+        </frame>
+        <frame>
+            <image x="0" y="0">girl_24</image>
+            <script>
+                <![CDATA[
+                    gotoAndPlay(0);
+                ]]>
+            </script>
+        </frame>
+    </movie>
+
+    <movie name="laba" loop="true">
+        <frame duration="300">
+            <image x="0" y="0">laba</image>
+        </frame>
+        <frame duration="300">
+            <image x="0" y="0">laba</image>
+            <image x="20" y="0">laba_01</image>
+        </frame>
+        <frame duration="300">
+            <image x="0" y="0">laba</image>
+            <image x="20" y="0">laba_01</image>
+            <image x="40" y="0">laba_02</image>
+        </frame>
+        <frame duration="300">
+            <image x="0" y="0">laba</image>
+            <image x="20" y="0">laba_01</image>
+            <image x="40" y="0">laba_02</image>
+            <image x="60" y="0">laba_03</image>
+        </frame>
+        <frame duration="300">
+            <image x="0" y="0">laba</image>
+            <image x="20" y="0">laba_01</image>
+            <image x="40" y="0">laba_02</image>
+            <image x="60" y="0">laba_03</image>
+            <image x="80" y="0">laba_04</image>
+        </frame>
+        <frame duration="300">
+            <image x="0" y="0">laba</image>
+            <image x="20" y="0">laba_01</image>
+            <image x="40" y="0">laba_02</image>
+            <image x="60" y="0">laba_03</image>
+            <image x="80" y="0">laba_04</image>
+            <image x="100" y="0">laba_05</image>
+        </frame>
+    </movie>
+</package>
